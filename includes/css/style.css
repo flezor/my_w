@@ -1,0 +1,76 @@
+@font-face{font-family:"Droid Arabic Kufi";src:url(../font/ArbFONTS-Droid-Arabic-Kufi.ttf);}
+BODY{margin: 0 auto;text-decoration: none;font-family: 'Droid Arabic Kufi', Arial !important;}
+.outerdiv{width:100%;text-align:center;margin: 0 auto;}
+div#E-learningums-sitetitle img {width: 150px;}
+div#E-learningums-sitetitle ul {text-align: center;margin-top: 1%;}
+div#E-learningums-sitetitle li {padding: 1px;}
+.logo {padding: 1%;margin-top: 1%;margin-bottom: 1%;border: 2px solid #eee;border-radius: 10px;margin-bottom:4%;}
+div#E-learningums-sitetitle {text-align: right;}
+select.form-control {padding: 0;}
+ul {list-style-type:none;}
+div#E-learningums-sitetitle ul {padding: 0;margin: 0;}
+div#left-logo {margin-top: 1%;}
+.left {padding: 5%;border: 2px solid #a20606;font-weight: bold;}
+.login {margin: 1% 2% 1% 2%;padding: 2%;}
+form li {padding: 3px;}
+form  h5 {border-bottom: 2px solid #a20606;padding-bottom: 2%;}
+.links_admin {margin-top: 3%;}
+td.Title {padding: 1%;}
+table.Table tr td {padding: 1%;}
+table.BorderTable {width: 100%;}
+table.BorderTable td {padding:2% 0% 2% 0%;}
+table.BorderTable td a  {line-height: 2;}
+table.BorderTable h4 {background: #a20606;color: #fff;padding-top: 1%;margin: 0;line-height: 2;}
+table.BorderTable li {list-style-type:none;text-align: center;}
+.panel-heading {background: #eee;line-height: 2;}
+select.selectsubject {width: 250px;}
+.menu_admin ul {margin: 0 auto;padding: 0;}
+div#center {min-height: 600px;}
+.rightimglogo img {width: 50%;}
+.rightimglogo {border-left: 2px solid #eee;}
+.panel-heading li {display: inline-block;padding: 0% 2% 0% 2%;}
+.panel-heading  input[type="button"] {font-size:12px;color:#337ab7;}
+.panel-heading i.glyphicon.glyphicon-print {color:#337ab7;}
+.formlogo ul {border: 1px solid #eee;padding: 0;}
+.tch {padding-top: 5px;color: #a20606;}
+h4.h4_title {font-size: 22px;padding-top: 5%;font-weight: 700;}
+ul.title_top h4 {padding-bottom: 2%;}
+h4.ibn {font-size: 20px;font-weight: 600;}
+div#E-learningums-sitetitle h4 {font-weight: 700;}
+.panel-heading {font-size: 24px;}
+.left li {list-style-type: none;padding-bottom: 8%;}
+@media only screen and ( max-width:767px)
+{
+.formlogo input#textusername {width: 90%;}
+input#textpassword {margin-top:2%;width: 90%;margin-bottom:5%;}
+.rightimglogo img {width: 20%;}
+.rightimglogo{border-left:0;}
+.formlogo h6 {margin-top:5%;background:#eee;padding:4%;margin-bottom:5%;}
+.links_admin ul{padding:0;}
+div#E-learningums-logo img {width: 25%;}
+div#E-learningums-sitetitle h3 {font-size: 13px;}
+div#E-learningums-sitetitle h4 {font-size: 10px;}
+.left {margin-bottom: 2%;}
+input.TextBox {width: 100%;}
+}
+@media only screen and ( max-width:480px)
+{
+.formlogo input#textusername {width: 90%;}
+input#textpassword {margin-top:2%;width: 90%;margin-bottom:5%;}
+.rightimglogo img {width: 20%;}
+.rightimglogo{border-left:0;}
+.formlogo h6 {margin-top:5%;background:#eee;padding:4%;margin-bottom:5%;}
+.links_admin ul{padding:0;}
+div#E-learningums-logo img {width: 60px;}
+div#E-learningums-sitetitle h3 {font-size: 13px;margin:5px;}
+div#E-learningums-sitetitle h4 {font-size: 14px;}
+.left {margin: 0;padding: 5px;border: 1px solid #ccc;}
+table.table.table-striped.table-bordered {font-size: 12px;}
+div#E-learningums-sitetitle ul { text-align: center;padding:0;}
+.panel-heading {background: #eee;line-height: 2;}
+.panel-heading b{font-size:small;}
+td.RightLabel {text-align: center;}
+ul.title_top {display: none;}
+.left {display: none;}
+.panel-heading {font-size: 18px;  }}
+
